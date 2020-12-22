@@ -1,0 +1,6 @@
+IMG spider.ppm
+
+MAP DIR
+
+CI H 0.2
+
